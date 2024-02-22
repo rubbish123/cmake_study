@@ -1,0 +1,5 @@
+写好CMakeLists.txt之后
+新建build文件夹并进入
+执行cmake .. 生成makefile或sln
+执行cmake --build . 生成可执行文件
+-DCMAKE_VERBOSE_MAKEFILE=ON 输出更详细的过程

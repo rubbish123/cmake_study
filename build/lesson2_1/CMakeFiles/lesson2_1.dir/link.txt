@@ -1,0 +1,1 @@
+/usr/bin/g++     CMakeFiles/lesson2_1.dir/main.cpp.o  -o lesson2_1  ../../lesson2_1/lib/libadd_static.a 

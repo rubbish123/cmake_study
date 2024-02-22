@@ -1,0 +1,5 @@
+/home/meandi/cmake_study/build/CMakeFiles/rebuild_cache.dir
+/home/meandi/cmake_study/build/CMakeFiles/edit_cache.dir
+/home/meandi/cmake_study/build/lesson2_1/CMakeFiles/rebuild_cache.dir
+/home/meandi/cmake_study/build/lesson2_1/CMakeFiles/edit_cache.dir
+/home/meandi/cmake_study/build/lesson2_1/CMakeFiles/lesson2_1.dir
